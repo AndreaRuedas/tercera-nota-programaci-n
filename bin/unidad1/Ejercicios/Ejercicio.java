@@ -11,5 +11,4 @@ public class Ejercicio {
         System.out.println("Average Grade: " + averageGrade);
         System.out.println("Is the Course Active? " + isCourseActive);
     }
-
 }
