@@ -1,3 +1,6 @@
+package unidad1.Ejercicios;
+import java.util.Scanner;
+
 public class Tabladel5 {
       public static void main(String[] args) {
         int resultado;

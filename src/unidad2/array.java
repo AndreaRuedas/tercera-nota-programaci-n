@@ -1,3 +1,5 @@
+package unidad2;
+
 public class array {
      public static void main(String[] args) {
         int[] vector_numeros = new int[10];

@@ -1,3 +1,6 @@
+package unidad1.Ejercicios;
+import java.util.Scanner;
+
 public class aumentoSueldo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
